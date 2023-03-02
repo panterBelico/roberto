@@ -1,0 +1,44 @@
+<html lang="es-MX">
+<head>
+<title>Index</title>
+</head>
+<body>
+<h1>
+
+    hola
+
+</h1>
+
+<h2>
+
+    hola
+
+</h2>
+
+<h3>
+
+    hola
+
+</h3>
+
+<h4>
+
+    hola
+
+</h4>
+
+<h5>
+
+    hola
+
+</h5>
+
+<h6>
+
+    hola
+
+</h6>
+
+
+</body>
+</html>
